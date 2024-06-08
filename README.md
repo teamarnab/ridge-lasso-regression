@@ -34,3 +34,4 @@ CONCLUTION
 - Accuracy improved a bit with Lasso but Ridge performed better.
 - Dataset would be suitable for other regression model, other than linear, ridge and lasso.
 
+THIS WORKSHEET ID FOR RIDGE AND LASSO PRACTICE. SO DIDN'T ADVANCE ANY MORE.
