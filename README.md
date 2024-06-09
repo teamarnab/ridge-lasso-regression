@@ -29,7 +29,7 @@ STEPS FOLLOWED
 14. Applying Lasso.
 
 CONCLUTION
-= The dataset was originally performing bd with multiple linear regression. 
+- The dataset was originally performing not so good with multiple linear regression. 
 - Accuracy improved a bit with Ridge.
 - Accuracy improved a bit with Lasso but Ridge performed better.
 - Dataset would be suitable for other regression model, other than linear, ridge and lasso.
